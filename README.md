@@ -123,6 +123,6 @@ Given a book title:
 ## 📬 Author
 
 **Shubham Kumar Jha**
-🔗 GitHub: [https://github.com/Shubham1919284](https://github.com/Shubham1919284)
-🔗 LinkedIn: [https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c](https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c)
+*🔗 GitHub: [https://github.com/Shubham1919284](https://github.com/Shubham1919284)
+*🔗 LinkedIn: [https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c](https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c)
 
